@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Skill Directory"
+  short_description: "Choose install paths for multi-agent skills"
+  default_prompt: "Use $agent-skill-directory to choose the right workspace, home, and system paths for this skill."
